@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabe, Gabriele Macri
 - 👀 I’m interested in programing wbesites
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on HTML/Css/JavaScript/BAT/C/C++/C#
 - 📫 How to reach me gbrlmacri@gmail.com
 
