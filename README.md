@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @G1A1B1E
-- 👀 I’m interested in TECH
+- 👋 Hi, I’m Gabe, Gabriele Macri
+- 👀 I’m interested in programing wbesites
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on HTML/CSS/JAVASCRIPT
+- 💞️ I’m looking to collaborate on HTML/Css/JavaScript/BAT/C/C++/C#
 - 📫 How to reach me gbrlmacri@gmail.com
 
 <!---
