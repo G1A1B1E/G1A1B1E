@@ -1,4 +1,4 @@
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=G1A1B1E&show_icons=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1A1B1E&langs_count=8&hide=html,jupyter%20notebook,ruby,vim%20script&layout=compact&theme=buefy&hide_border=true" /> |
+[![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=G1A1B1E)](https://github.com/anuraghazra/github-readme-stats)
 | ------------- | ------------- |
 
 
