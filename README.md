@@ -1,5 +1,5 @@
 [![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=G1A1B1E)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G1A1B1Ea&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G1A1B1E&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 | ------------- | ------------- |
 
 
